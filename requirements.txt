@@ -3,3 +3,4 @@ uvicorn
 faster-whisper
 av
 pydantic
+python-multipart
